@@ -1,4 +1,5 @@
 ### Hi there 👋
+<h1 align="center">
 <br>
   I'm Pranathi Vadrevu <br>
  
@@ -20,7 +21,7 @@
 - 📫 Email: svadrevu@umd.edu
 
 --
-📄 Resume: [Click Here](https://drive.google.com/file/d/1BZa8x8Q7AFVfyIhr5AytBBtfzao7W6f0/view?usp=sharing)
+📄 Resume: [Click Here]()
 --
 
 
