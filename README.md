@@ -1,6 +1,6 @@
-### Hi there 👋
+
+  <h3 align = "center"> Hi there 👋 </h3>
 <h1 align="center">
-<br>
   I'm Pranathi Vadrevu <br>
  
 
