@@ -12,7 +12,7 @@
 <i>I keep drowning in the ocean of knowledge just to find new things in its depth</i> 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj-chukkala&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj-chukkala" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranathivadrevu&label=Profile%20views&color=0e75b6&style=flat" alt="pranathi vadrevu" /> </p>
 
 - 🔭 I'm currently working in: Software Development 
 - 👌 I’m highly proficient in: Python, OOPs, ML, HTML
